@@ -6,4 +6,4 @@
   Inspired and designed by : https://github.com/pSkywalker/reactNativeLuxuryWatchAppUI/blob/master/luxuryAppUI.gif
 </h4>
 
-<img width:"350" src="https://github.com/pSkywalker/reactNativeLuxuryWatchAppUI/blob/master/luxuryAppUI.gif">
+<img src="https://github.com/pSkywalker/reactNativeLuxuryWatchAppUI/blob/master/luxuryAppUI.gif" width="300"/>
